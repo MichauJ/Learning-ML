@@ -1,0 +1,52 @@
+State;Division;Region
+Connecticut;New England;Northeast
+Maine;New England;Northeast
+Massachusetts;New England;Northeast
+New Hampshire;New England;Northeast
+Rhode Island;New England;Northeast
+Vermont;New England;Northeast
+New Jersey;Middle Atlantic;Northeast
+New York;Middle Atlantic;Northeast
+Pennsylvania;Middle Atlantic;Northeast
+Maryland;Middle Atlantic;Northeast
+Illinois;East North Central;Midwest
+Indiana;East North Central;Midwest
+Michigan;East North Central;Midwest
+Ohio;East North Central;Midwest
+Wisconsin;East North Central;Midwest
+Iowa;West North Central;Midwest
+Kansas;West North Central;Midwest
+Minnesota;West North Central;Midwest
+Missouri;West North Central;Midwest
+Nebraska;West North Central;Midwest
+North Dakota;West North Central;Midwest
+South Dakota;West North Central;Midwest
+Florida;South Atlantic;South
+Georgia;South Atlantic;South
+North Carolina;South Atlantic;South
+South Carolina;South Atlantic;South
+Virginia;South Atlantic;South
+Washington, D.C.;South Atlantic;South
+Delaware;South Atlantic;South
+West Virginia;South Atlantic;South
+Alabama;East South Central;South
+Kentucky;East South Central;South
+Mississippi;East South Central;South
+Tennessee;East South Central;South
+Arkansas;West South Central;South
+Louisiana;West South Central;South
+Oklahoma;West South Central;South
+Texas;West South Central;South
+Arizona;Mountain;West
+Colorado;Mountain;West
+Idaho;Mountain;West
+Montana;Mountain;West
+Nevada;Mountain;West
+New Mexico;Mountain;West
+Utah;Mountain;West
+Wyoming;Mountain;West
+Alaska;Pacific;West
+California;Pacific;West
+Hawaii;Pacific;West
+Oregon;Pacific;West
+Washington;Pacific;West
