@@ -1,0 +1,3 @@
+0. Install uv
+1. Create venv and activate: uv venv --python 3.14.3 -> .venv\Scripts\activate
+2. Install from requirements.txt: uv pip sync requirements.txt

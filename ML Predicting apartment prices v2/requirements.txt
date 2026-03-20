@@ -1,0 +1,16 @@
+# Data handling
+pandas
+numpy
+chardet
+ucimlrepo
+# Machine learning
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Data quality
+pandas-dq
