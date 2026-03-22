@@ -1,0 +1,10 @@
+[project]
+name = "ml-predicting-apartment-prices-v2"
+version = "0.1.0"
+description = "Project covering various regression algorithms and MLOps solutions."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "mlflow>=3.10.1",
+]

@@ -10,7 +10,7 @@ def check_encoding(file: str)-> str:
         encoding = detect(f.read(10000))['encoding']
         return encoding
 
-def load_apartments_data():
+def load_apartments_data_from_ucimlrepo(repo_id: int) -> pd.DataFrame:
     """
     Checks if the file 'apartment_data.csv' exists in the current working directory.
     If not, fetches data using ucimlrepo, saves it as a CSV file, and loads it into a DataFrame.
@@ -19,7 +19,7 @@ def load_apartments_data():
     file_path = r"./ML Predicting apartment prices v2/data/raw/raw_apartment_data.csv"
 
     if not os.path.exists(file_path):
-        apartment_for_rent_classified = fetch_ucirepo(id=555)
+        apartment_for_rent_classified = fetch_ucirepo(repo_id=repo_id)
 
         X = apartment_for_rent_classified.data.features
         y = apartment_for_rent_classified.data.targets

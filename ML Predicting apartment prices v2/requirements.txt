@@ -6,11 +6,11 @@ ucimlrepo
 # Machine learning
 scikit-learn
 scipy
-
+mlflow
 # Visualization
 matplotlib
 seaborn
 plotly
-
+bamboolib
 # Data quality
 pandas-dq

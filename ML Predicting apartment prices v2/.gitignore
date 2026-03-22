@@ -4,3 +4,5 @@ Project-checklist.md
 **/.venv/
 **/venv/
 **/ml_apartments_venv/
+*.csv
+*.xlsx
